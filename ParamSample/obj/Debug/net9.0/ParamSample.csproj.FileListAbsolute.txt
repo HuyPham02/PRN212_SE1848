@@ -1,0 +1,14 @@
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\bin\Debug\net9.0\ParamSample.exe
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\bin\Debug\net9.0\ParamSample.deps.json
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\bin\Debug\net9.0\ParamSample.runtimeconfig.json
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\bin\Debug\net9.0\ParamSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\bin\Debug\net9.0\ParamSample.pdb
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfoInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfo.cs
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.csproj.CoreCompileInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\refint\ParamSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.pdb
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ParamSample.genruntimeconfig.cache
+D:\PRN_SUMMER\PRN212_SE1848\ParamSample\obj\Debug\net9.0\ref\ParamSample.dll
