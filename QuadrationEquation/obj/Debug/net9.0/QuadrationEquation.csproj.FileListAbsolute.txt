@@ -1,0 +1,14 @@
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\bin\Debug\net9.0\QuadrationEquation.exe
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\bin\Debug\net9.0\QuadrationEquation.deps.json
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\bin\Debug\net9.0\QuadrationEquation.runtimeconfig.json
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\bin\Debug\net9.0\QuadrationEquation.dll
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\bin\Debug\net9.0\QuadrationEquation.pdb
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.AssemblyInfoInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.AssemblyInfo.cs
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.csproj.CoreCompileInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.dll
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\refint\QuadrationEquation.dll
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.pdb
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\QuadrationEquation.genruntimeconfig.cache
+D:\PRN_SUMMER\PRN212_SE1848\QuadrationEquation\obj\Debug\net9.0\ref\QuadrationEquation.dll

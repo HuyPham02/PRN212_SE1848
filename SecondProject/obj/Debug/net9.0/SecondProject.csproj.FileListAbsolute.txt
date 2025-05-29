@@ -1,0 +1,14 @@
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfoInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfo.cs
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\bin\Debug\net9.0\SecondProject.exe
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\bin\Debug\net9.0\SecondProject.deps.json
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\bin\Debug\net9.0\SecondProject.runtimeconfig.json
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\bin\Debug\net9.0\SecondProject.dll
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\bin\Debug\net9.0\SecondProject.pdb
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.dll
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\refint\SecondProject.dll
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.pdb
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\SecondProject.genruntimeconfig.cache
+D:\PRN_SUMMER\PRN212_SE1848\SecondProject\obj\Debug\net9.0\ref\SecondProject.dll
