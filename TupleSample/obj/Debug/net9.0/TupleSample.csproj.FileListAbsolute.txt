@@ -1,0 +1,14 @@
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\bin\Debug\net9.0\TupleSample.exe
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\bin\Debug\net9.0\TupleSample.deps.json
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\bin\Debug\net9.0\TupleSample.runtimeconfig.json
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\bin\Debug\net9.0\TupleSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\bin\Debug\net9.0\TupleSample.pdb
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.AssemblyInfoInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.AssemblyInfo.cs
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.csproj.CoreCompileInputs.cache
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\refint\TupleSample.dll
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.pdb
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\TupleSample.genruntimeconfig.cache
+D:\PRN_SUMMER\PRN212_SE1848\TupleSample\obj\Debug\net9.0\ref\TupleSample.dll
